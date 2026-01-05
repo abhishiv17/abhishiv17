@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Abhi 👋</h1>
+<h1 align="center">Hi, I'm Abhishek M S 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishiv17&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 <h3 align="center">Engineering Student | Technical Lead | Full-Stack & DSA Enthusiast</h3>
 
 ---
@@ -11,12 +14,14 @@
 
 ---
 
-### 🛠 Tech Stack
-**Languages:** C, C++, JavaScript  
-**Frontend:** React, HTML, CSS  
-**Backend:** Node.js, Express  
-**Databases:** MongoDB  
-**Tools:** Git, GitHub, VS Code  
+### 🔧 Technologies & Tools
+![C](https://img.shields.io/badge/C-blue?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+ 
 
 ---
 
@@ -28,11 +33,11 @@
 
 ---
 
-### 📈 GitHub Activity
+### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishiv17&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishiv17&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishiv17&theme=onedark&no-frame=true&row=1"/>
 </p>
+
 
 ---
 
