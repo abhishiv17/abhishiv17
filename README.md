@@ -114,7 +114,7 @@ const Abhishek = {
 </p>
 
 <p align="center">
-  <i>"Consistency is the key to mastery."</i>
+  <i>"Thank you for visiting my profile."</i>
 </p>
 
 
