@@ -25,8 +25,6 @@ const Abhishek = {
 ```
 
 - 🌌 **Architecting**: [Cerebyte](https://github.com/abhishiv17/Cerebyte) - DSA Mastery platform.
-- 🚀 **Lead**: Managing high-performance development teams.
-- 🧠 **Algorithms**: 500+ solved | DSA Enthusiast.
 - 🤝 **Connect**: [LinkedIn](https://www.linkedin.com/in/abhishek-m-shivanagoudar-5441ab322) | [Email](mailto:abhishiv208@gmail.com)
 
 ---
