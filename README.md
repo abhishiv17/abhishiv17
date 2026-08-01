@@ -23,8 +23,6 @@ const Abhishek = {
     passion: "Clean code, high performance, and solving complex problems."
 };
 ```
-
-- 🌌 **Architecting**: [Cerebyte](https://github.com/abhishiv17/Cerebyte) - DSA Mastery platform.
 - 🤝 **Connect**: [LinkedIn](https://www.linkedin.com/in/abhishek-m-shivanagoudar-5441ab322) | [Email](mailto:abhishiv208@gmail.com)
 
 ---
