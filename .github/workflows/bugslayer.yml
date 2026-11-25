@@ -1,0 +1,40 @@
+name: bugslayer
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: bugslayer
+  cancel-in-progress: false
+
+jobs:
+  move:
+    if: startsWith(github.event.issue.title, 'bugslayer|')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Play every open move
+        run: python3 .github/game/play.py play
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Save the board
+        run: |
+          git config user.name "bugslayer-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/game/board.svg .github/game/state.json
+          git diff --cached --quiet && exit 0
+          git commit -m "bugslayer: turn $(python3 -c "import json;print(json.load(open('.github/game/state.json'))['turn'])")"
+          for i in 1 2 3; do git push && break; git pull --rebase; done
+
+      - name: Reply to players
+        run: python3 .github/game/play.py close
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
