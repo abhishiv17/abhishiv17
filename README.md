@@ -1,6 +1,14 @@
 <p align="center">
-  <img src="assets/game/title.svg" width="100%" alt="BUG SLAYER — a community roguelike" />
+  <a href="https://abhishiv17.github.io/abhishiv17/"><img src="assets/game/title.svg" width="100%" alt="BUG SLAYER — click to play" /></a>
 </p>
+
+<p align="center">
+  <a href="https://abhishiv17.github.io/abhishiv17/"><img src="assets/game/btn-start.svg" width="100%" alt="PRESS START — play instantly in your browser" /></a>
+</p>
+
+<br/>
+
+<img src="assets/game/community.svg" width="100%" alt="Community mode — one shared hero, every move is a GitHub issue" />
 
 <!--GAME:START-->
 <p align="center"><img src="assets/game/board.svg?turn=0" width="100%" alt="BUG SLAYER — level 1, 5/5 HP, score 0" /></p>
@@ -14,10 +22,10 @@
   <a href="https://github.com/abhishiv17/abhishiv17/issues/new?title=bugslayer%7Cdown&body=%F0%9F%91%BE%20Just%20hit%20%2A%2ASubmit%20new%20issue%2A%2A%20%E2%80%94%20that%27s%20your%20move%21%0A%0AThe%20board%20updates%20in%20about%2030%20seconds.%20Then%20head%20back%20to%20https%3A//github.com/abhishiv17%20and%20refresh."><img src="assets/game/btn-down.svg" width="96" alt="down" /></a>
 </p>
 
-<p align="center"><sub>press an arrow → hit <b>Submit new issue</b> → refresh in ~30s. everyone moves the same hero.</sub></p>
+<p align="center"><sub>press an arrow → click the green <b>Create</b> button on the page that opens → come back & refresh in ~30s</sub></p>
 
 <details>
-<summary><b>📖 How to play</b></summary>
+<summary><b>📖 Rules</b> (same in both modes)</summary>
 <br/>
 
 | | |
